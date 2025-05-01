@@ -1,0 +1,32 @@
+.back{
+    width: 600px;
+    height: 550px;
+    position: relative;
+    left: 330px;
+    top: 20px;
+    border: black;
+    box-shadow: 0px 0px 0px 100px green;
+    
+}
+.head{
+    position: relative;
+    bottom: 450px;
+    left: 500px;
+    font-size: 50px;
+    font-family:cursive;
+    color: #094c20;
+}
+.h1{
+    position: relative;
+    bottom: 460px;
+    left: 430px;
+    font-size: 40px;
+    font-family:cursive;
+    color: #0a4d21;
+}
+.ball{
+    width: 300px;
+    position: relative;
+    bottom: 870px;
+    left: 240px;
+}
